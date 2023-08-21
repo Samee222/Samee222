@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samee222
-- 👀 I’m interested in matlab coding
-- 🌱 I’m currently learning nonlinear analysis of  static and dynamic problem of mechanical and space structures
-- 💞️ I’m looking to collaborate on coding of nonlinear analysis of structures using FEM and FDM
+- 👀 I’m interested in data analytics and data science.
+- 🌱 I’m currently learning machine learning and artificial intelligence.
+- 💞️ I’m looking to collaborate on pyhton coding for data science related problems.
 - 📫 How to reach me -just message me.
 
 <!---
